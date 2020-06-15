@@ -28,6 +28,13 @@ function Awards() {
                         personal health records using attribute-based encryption”, in IJEAT Vol. 2, No 4, Issue 2 May
                         2013, pages 95-97
                     </li>
+                    <li>
+                        <span className="fa-li"><i className="fas fa-trophy text-warning"></i></span><b>CS50's Web
+                        Programming with Python and JavaScript from HarvardX on June 4th, 2020 - </b>
+                        Certificate link and ID: <a href="https://courses.edx.org/certificates/42e7eff133264a1cbfd002dd98f7ac85">
+                        42e7eff133264a1cbfd002dd98f7ac85
+                    </a>
+                    </li>
                 </ul>
             </div>
         </section>
