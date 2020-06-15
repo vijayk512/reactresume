@@ -1,0 +1,15 @@
+.bg-primary {
+    background-color: #b300ff !important;
+}
+
+.text-primary, .subheading a{
+    color: #b300ff !important;
+}
+
+.social-icons .social-icon:hover {
+    background-color: #b300ff;
+}
+
+.text-warning {
+    color: #b300ff !important;
+}
